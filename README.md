@@ -73,7 +73,7 @@ Merupakan implementasi dengan improvisasi dari teknik _Pomodoro_, Cuymodoro mamp
 
 3. Menjalankan aplikasi
 
-    Untuk menjalankan aplikasi di perangkat, kamu daperlupat menjalankan perintah:
+    Untuk menjalankan aplikasi di perangkat, kamu dapat menjalankan perintah:
 
     ```
     ./app.sh start
